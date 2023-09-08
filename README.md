@@ -18,7 +18,7 @@ This project aims to translate English text to Hinglish using a pre-trained mach
   
   Translation Process: The script tokenizes the English text and translates each token to Hindi using the pre-trained model. It then combines the translated tokens to form the final Hindi translation.
   
-  Viewing the Translation: The translated text in Hindi is displayed on the screen.
+  Viewing the Translation: The translated text in Hinglish is displayed on the screen.
   
   Optional: Deactivating the Virtual Environment: If a virtual environment was used, it can be deactivated when the project is completed.
 
